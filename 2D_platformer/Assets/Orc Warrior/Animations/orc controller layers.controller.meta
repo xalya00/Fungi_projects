@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 898d594f5a4bdf34a89687067924dbae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17020
+  packageName: 'Orc Warrior Cartoon Character '
+  packageVersion: 1.2
+  assetPath: Assets/Orc Warrior/Animations/orc controller layers.controller
+  uploadId: 36533

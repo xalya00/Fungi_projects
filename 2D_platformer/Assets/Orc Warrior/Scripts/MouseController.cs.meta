@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ec3961d7e95db2478c2c37478e38b57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 17020
+  packageName: 'Orc Warrior Cartoon Character '
+  packageVersion: 1.2
+  assetPath: Assets/Orc Warrior/Scripts/MouseController.cs
+  uploadId: 36533
