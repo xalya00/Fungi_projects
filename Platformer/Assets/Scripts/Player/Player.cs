@@ -1,18 +1,17 @@
 using System;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class Player : MonoBehaviour
 {
     [Header ("Movement")] 
+    
+    private int _health = 100;
     [SerializeField] private float _speed = 3f;
     [SerializeField] private float _jumpForce = 7f;
-  
+    
     private int _jumpingCount;
     private bool _isFalling;
-    private int _health = 100;
     private bool _isDoubleJumping;
-    
     
     [SerializeField] private float _groundCheckRadius = 1.1f;
     private bool _isGround;
@@ -23,6 +22,8 @@ public class Player : MonoBehaviour
     private SpriteRenderer _sprite;
     private Rigidbody2D _rb2D;
 
+    
+    
     
     public static Player Instance;
     

@@ -37,6 +37,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -96,6 +97,9 @@
       <workItem from="1733587574070" duration="1916000" />
       <workItem from="1733589519403" duration="2640000" />
       <workItem from="1733910647401" duration="70000" />
+      <workItem from="1733911031517" duration="67000" />
+      <workItem from="1733911124479" duration="573000" />
+      <workItem from="1733911729843" duration="379000" />
     </task>
     <servers />
   </component>
@@ -105,6 +109,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityProjectDiscoverer">
     <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
