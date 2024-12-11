@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
     [Header ("Movement")] 
     [SerializeField] private float _speed = 3f;
     [SerializeField] private float _jumpForce = 7f;
-    private bool _isGround;
+  
     private int _jumpingCount;
     private bool _isFalling;
     private int _health = 100;
@@ -15,12 +15,14 @@ public class Player : MonoBehaviour
     
     
     [SerializeField] private float _groundCheckRadius = 1.1f;
+    private bool _isGround;
+    [SerializeField] private LayerMask _mask;
     private Ray _ray;
     
     private Animator _animator;
     private SpriteRenderer _sprite;
     private Rigidbody2D _rb2D;
-    [SerializeField] private LayerMask _mask;
+
     
     public static Player Instance;
     
